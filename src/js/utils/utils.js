@@ -1,3 +1,3 @@
-require(['Adagio'], function () {
+define(['Adagio'], function () {
   Adagio.utils = {};
 });

@@ -1,4 +1,4 @@
-require(['utils/typeUtils'], function () {
+define(['utils/typeUtils'], function () {
 
   var typeUtils = Adagio.utils.typeUtils;
 
