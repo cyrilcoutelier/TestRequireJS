@@ -7,6 +7,11 @@ If RequireJS works as intended, we might be using it in replacement of [Smash](h
 The problem with Smash is that it adds a new keyword : import. So we gets errors 
 syntax, and there are some IDE features that we can't use anymore such as auto-formatting. 
 
+The optimizer is launched with : 
+```Shell
+node node_modules/r.js -o r.buildconfig.js
+```
+
 ### Done : 
  * basic usage of RequireJS to keep the same definition and usage pattern for Adagio
  * use the optimization feature RequireJS in order to combine Adagio into one file. 
