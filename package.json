@@ -1,0 +1,16 @@
+{
+  "name": "TestRequireJS",
+  "version": "0.1.0",
+  "author": "Flat team <contact@flat.io>",
+  "contributors": [
+    {
+      "name": "Cyril Coutelier",
+      "email": "coutel_c@epitech.eu"
+    }
+  ],
+  "description": "Test of RequireJS for js files combining as done for the Adagio library",
+  "dependencies": {
+    "requirejs": "latest"
+  },
+  "main": "./build/adagio.js"
+}
