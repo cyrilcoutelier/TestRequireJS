@@ -9,6 +9,9 @@ syntax, and there are some IDE features that we can't use anymore such as auto-f
 
 ### Done : 
  * basic usage of RequireJS to keep the same definition and usage pattern for Adagio
+ * use the optimization feature RequireJS in order to combine Adagio into one file. 
 
 ### TODO : 
- * use the optimization feature RequireJS in order to combine Adagio into one file. 
+ * write test automation
+ * try the interaction between the generated code and node
+ * try using modules system the proper way
