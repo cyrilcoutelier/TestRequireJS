@@ -1,7 +1,7 @@
 TestRequireJS
 =============
 
-Test of RequireJS as tool condidate for combining js files for the Flat/Adagio project. 
+Test of RequireJS as tool candidate for combining js files for the Flat/Adagio project. 
 
 If RequireJS works as intended, we might be using it in replacement of [Smash](https://github.com/mbostock/smash). 
 The problem with Smash is that it adds a new keyword : import. So we gets errors 
